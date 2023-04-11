@@ -1,0 +1,6 @@
+AG -> GA
+AT -> TG,TG
+TG -> GT,GG
+CA -> AT
+GG -> GA
+GA -> AT
